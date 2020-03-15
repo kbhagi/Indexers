@@ -1,0 +1,5 @@
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\Indexers\Indexers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\Indexers\Indexers\obj\Debug\Indexers.pdb
